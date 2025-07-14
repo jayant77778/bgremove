@@ -1,6 +1,3 @@
-Sure! Here's a professional and clear `README.md` file for your **Image Background Remover using Python and `rembg`**.
-
----
 
 ### 📄 `README.md`
 

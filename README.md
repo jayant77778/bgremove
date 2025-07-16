@@ -78,4 +78,4 @@ project/
 ## 👨‍💻 Author
 
 Made with ❤️ by Jayant Bhati
-Feel free to use and modify. PRs welcome!
+Feel free to use and modify. PRs welcome.
